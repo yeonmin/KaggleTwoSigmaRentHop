@@ -1,3 +1,6 @@
+**Kaggle Competition**에서 배운 내용을 개인적으로 정리하기 위하여 사용하였습니다.<br>
+틀린 내용이나 자세한 문의사항은 메일로 주시기바랍니다.<br>
+
 # Two Sigma Connect: Rental Listing Inquiries
 https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
 
